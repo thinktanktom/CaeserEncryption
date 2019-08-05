@@ -1,4 +1,4 @@
-# Basic Caeser Ecryption Program
+# Basic Caeser Encryption Program
 Uses Caeser encryption method to encrypt a given word and return to the user
 
 # python commands
